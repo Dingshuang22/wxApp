@@ -1,4 +1,4 @@
-// pages/classify/classify.js
+// pages/search/search.js
 Page({
 
   /**

@@ -3,10 +3,8 @@
     "pages/home/home",
     "pages/index/index",
     "pages/logs/logs",
-    
-    "pages/classify/classify",
-    "pages/cart/cart",
-    "pages/my/my"
+    "pages/my/my",
+    "pages/search/search"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -27,16 +25,10 @@
         "selectedIconPath": "images/home-on.png"
       },
       {
-        "text": "商品分类",
-        "pagePath": "pages/classify/classify",
-        "iconPath": "images/classify.png",
-        "selectedIconPath": "images/classify-on.png"
-      },
-      {
-        "text": "购物车",
-        "pagePath": "pages/cart/cart",
-        "iconPath": "images/cart.png",
-        "selectedIconPath": "images/cart-on.png"
+        "text": "搜索",
+        "pagePath": "pages/search/search",
+        "iconPath": "images/search.png",
+        "selectedIconPath": "images/search-on.png"
       },
       {
         "text": "个人中心",

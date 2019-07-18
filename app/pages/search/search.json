@@ -1,7 +1,7 @@
 {
   "usingComponents": {},
   "backgroundTextStyle": "light",
-  "navigationBarTitleText": "购物车",
+  "navigationBarTitleText": "搜索",
   "navigationBarBackgroundColor": "#123456",
   "navigationBarTextStyle": "white"
 }
